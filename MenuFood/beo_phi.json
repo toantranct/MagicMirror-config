@@ -1,0 +1,440 @@
+{
+  "bmi": "beophi",
+  "energy": 800,
+  "meals": [
+    {
+      "name": "Sáng",
+      "foods": [
+        {
+          "name": "Khoai luộc",
+          "quantity": "1 củ nhỏ (100g)",
+          "energy": 98
+        },
+        {
+          "name": "Sữa bổ sung canxi",
+          "quantity": "1 ly 200ml",
+          "energy": 111
+        }
+      ]
+    },
+    {
+      "name": "Phụ",
+      "foods": [
+        {
+          "name": "Táo ta",
+          "quantity": "3 trái",
+          "energy": 27
+        }
+      ]
+    },
+    {
+      "name": "Trưa",
+      "foods": [
+        {
+          "name": "Cháo sườn (1 tô nhỏ)",
+          "ingredients": [
+            {
+              "name": "Thịt sườn heo",
+              "quantity": "20g"
+            },
+            {
+              "name": "Giá",
+              "quantity": "25g"
+            },
+            {
+              "name": "Dầu",
+              "quantity": "3g"
+            }
+          ],
+          "energy": 117
+        },
+        {
+          "name": "Thanh long",
+          "quantity": "1 miếng 50g",
+          "energy": 20
+        },
+        {
+          "name": "Sữa bổ sung canxi",
+          "quantity": "1 ly",
+          "energy": 111
+        }
+      ]
+    },
+    {
+      "name": "Chiều",
+      "foods": [
+        {
+          "name": "Cơm",
+          "quantity": "½ chén vừa",
+          "energy": 100
+        },
+        {
+          "name": "Canh bầu",
+          "ingredients": [
+            {
+              "name": "Tép",
+              "quantity": "27g"
+            },
+            {
+              "name": "Bầu",
+              "quantity": "100g"
+            },
+            {
+              "name": "Dầu",
+              "quantity": "2g"
+            }
+          ],
+          "energy": 48
+        },
+        {
+          "name": "Đậu que xào thịt bò",
+          "ingredients": [
+            {
+              "name": "Thịt bò",
+              "quantity": "24g"
+            },
+            {
+              "name": "Đậu que",
+              "quantity": "30g"
+            },
+            {
+              "name": "Dầu",
+              "quantity": "4g"
+            }
+          ],
+          "energy": 96
+        },
+        {
+          "name": "Chuối xiêm",
+          "quantity": "1 trái vừa",
+          "energy": 80
+        }
+      ]
+    }
+  ]
+},
+{
+  "total_kcal": 1000,
+  "meals": [
+    {
+      "name": "Sáng",
+      "foods": [
+        {
+          "name": "Canh bún",
+          "quantity": "70g bún tươi, 12g mảng riêu, 9g chả lụa, 5g măng khô, rau muống",
+          "kcal": 148
+        },
+        {
+          "name": "Xoài",
+          "quantity": "1/4 trái",
+          "kcal": 45
+        },
+        {
+          "name": "Sữa bổ sung canxi",
+          "quantity": "1 ly 200ml",
+          "kcal": 111
+        }
+      ]
+    },
+    {
+      "name": "Trưa",
+      "foods": [
+        {
+          "name": "Cơm",
+          "quantity": "1 chén vừa",
+          "kcal": 200
+        },
+        {
+          "name": "Canh bí đỏ",
+          "quantity": "5g thịt heo, 80g bí đỏ",
+          "kcal": 42
+        },
+        {
+          "name": "Thịt nạc kho tiêu",
+          "quantity": "30g thịt heo nạc, 4.5g dầu",
+          "kcal": 80
+        },
+        {
+          "name": "Bắp cải luộc",
+          "quantity": "70g bắp cải",
+          "kcal": 20
+        },
+        {
+          "name": "Chuối xiêm",
+          "quantity": "1 trái vừa",
+          "kcal": 54
+        }
+      ]
+    },
+    {
+      "name": "Chiều",
+      "foods": [
+        {
+          "name": "Cơm",
+          "quantity": "2/3 chén vừa",
+          "kcal": 150
+        },
+        {
+          "name": "Canh rau dền thịt",
+          "quantity": "5g thịt heo, 50g rau dền",
+          "kcal": 22
+        },
+        {
+          "name": "Lươn xào sả ớt",
+          "quantity": "42g lươn, 6g dầu, gia vị",
+          "kcal": 94
+        },
+        {
+          "name": "Mãng cầu xiêm",
+          "quantity": "1 miếng 80g",
+          "kcal": 40
+        }
+      ]
+    }
+  ]
+},
+{
+  "total_kcal": "1200",
+  "meals": [
+    {
+      "name": "Phở gà (1 tô nhỏ)",
+      "quantity": "1 tô nhỏ",
+      "kcal": 241
+    },
+    {
+      "name": "Táo tây",
+      "quantity": "½ trái vừa",
+      "kcal": 53
+    },
+    {
+      "name": "Sữa bổ sung canxi",
+      "quantity": "1 ly 200ml",
+      "kcal": 111
+    },
+    {
+      "name": "Cơm",
+      "quantity": "1 chén vừa",
+      "kcal": 200
+    },
+    {
+      "name": "Canh khổ qua thịt",
+      "quantity": "",
+      "kcal": 34,
+      "ingredients": [
+        {
+          "name": "Thịt heo",
+          "quantity": "10g"
+        },
+        {
+          "name": "Khổ hoa",
+          "quantity": "130g"
+        }
+      ]
+    },
+    {
+      "name": "Cá ngừ kho thơm",
+      "quantity": "",
+      "kcal": 90,
+      "ingredients": [
+        {
+          "name": "Cá",
+          "quantity": "64g"
+        },
+        {
+          "name": "Thơm",
+          "quantity": "35g"
+        },
+        {
+          "name": "Dầu ăn",
+          "quantity": "4,5g"
+        }
+      ]
+    },
+    {
+      "name": "Cải thìa luộc",
+      "quantity": "63g",
+      "kcal": 10
+    },
+    {
+      "name": "Đu đủ",
+      "quantity": "1 miếng 180g",
+      "kcal": 63
+    },
+    {
+      "name": "Cơm",
+      "quantity": "1 chén vừa",
+      "kcal": 200
+    },
+    {
+      "name": "Canh cải xoong",
+      "quantity": "",
+      "kcal": 24,
+      "ingredients": [
+        {
+          "name": "Thịt heo",
+          "quantity": "10g"
+        },
+        {
+          "name": "Cải xoong",
+          "quantity": "70g"
+        }
+      ]
+    },
+    {
+      "name": "Trứng chưng",
+      "quantity": "",
+      "kcal": 94,
+      "ingredients": [
+        {
+          "name": "Thịt heo",
+          "quantity": "10g"
+        },
+        {
+          "name": "Trứng vịt",
+          "quantity": "½ quả"
+        },
+        {
+          "name": "Dầu ăn",
+          "quantity": "4,5g"
+        }
+      ]
+    },
+    {
+      "name": "Su su xào",
+      "quantity": "55g",
+      "kcal": 50,
+      "ingredients": [
+        {
+          "name": "Su su",
+          "quantity": "55g"
+        },
+        {
+          "name": "Dầu ăn",
+          "quantity": "4-5g"
+        }
+      ]
+    },
+    {
+      "name": "Quýt",
+      "quantity": "1,5 trái vừa",
+      "kcal": 42
+    }
+  ]
+},
+  "calories": 1500,
+  "meals": [
+    {
+      "name": "Sáng",
+      "foods": [
+        {
+          "name": "Miến gà (1 tô vừa)",
+          "quantity": "1",
+          "calories": 317,
+          "ingredients": [
+            "Miến khô 50g",
+            "Thịt gà 30g",
+            "Măng khô 5g",
+            "Giá, rau muống.."
+          ]
+        },
+        {
+          "name": "Bưởi",
+          "quantity": "4 múi",
+          "calories": 40
+        },
+        {
+          "name": "Sữa bổ sung canxi",
+          "quantity": "1 ly 200ml",
+          "calories": 111
+        }
+      ]
+    },
+    {
+      "name": "Trưa",
+      "foods": [
+        {
+          "name": "Cơm",
+          "quantity": "1,5 chén vừa",
+          "calories": 300
+        },
+        {
+          "name": "Canh chua cá hồi",
+          "quantity": "",
+          "calories": 96,
+          "ingredients": [
+            "Cá nạc 30g",
+            "Thơm, cà chua 120g",
+            "Dầu 4,5g"
+          ]
+        },
+        {
+          "name": "Thịt kho trứng",
+          "quantity": "",
+          "calories": 107,
+          "ingredients": [
+            "Thịt heo nạc 30g",
+            "Trứng ½ quả",
+            "Dầu 3g"
+          ]
+        },
+        {
+          "name": "Rau muống luộc",
+          "quantity": "100g",
+          "calories": 23
+        },
+        {
+          "name": "Phụ",
+          "quantity": "Chôm chôm",
+          "calories": 70,
+          "ingredients": [
+            "5 trái"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chiều",
+      "foods": [
+        {
+          "name": "Cơm",
+          "quantity": "1 chén vừa",
+          "calories": 200
+        },
+        {
+          "name": "Canh tần ô thịt",
+          "quantity": "",
+          "calories": 24,
+          "ingredients": [
+            "Thịt 10g",
+            "Rau tần ô 70g"
+          ]
+        },
+        {
+          "name": "Tôm rim",
+          "quantity": "",
+          "calories": 101,
+          "ingredients": [
+            "Tôm 50g",
+            "Dầu 6g",
+            "Gia vị"
+          ]
+        },
+        {
+          "name": "Bông cải, cà rốt xào",
+          "quantity": "",
+          "calories": 67,
+          "ingredients": [
+            "Bông cải 70g",
+            "Cà rốt 50g",
+            "Dầu 3g"
+          ]
+        },
+        {
+          "name": "Ổi",
+          "quantity": "1 trái vừa",
+          "calories": 53
+        }
+      ]
+    }
+  ]
+}
