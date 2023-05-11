@@ -1,0 +1,498 @@
+[
+  {
+  "energy": 1500,
+  "meals": [
+    {
+      "name": "Sáng",
+      "foods": [
+        {
+          "name": "Bánh mì 1 ổ",
+          "quantity": "1 ổ nhỏ (30g)",
+          "energy": 80
+        },
+        {
+          "name": "Trứng gà",
+          "quantity": "1 quả",
+          "energy": 78
+        },
+        {
+          "name": "Nước ép cà rốt",
+          "quantity": "1 ly 200ml",
+          "energy": 48
+        }
+      ]
+    },
+    {
+      "name": "Phụ",
+      "foods": [
+        {
+          "name": "Cam",
+          "quantity": "1 trái",
+          "energy": 50
+        }
+      ]
+    },
+    {
+      "name": "Trưa",
+      "foods": [
+        {
+          "name": "Cơm trắng",
+          "quantity": "1 chén vừa",
+          "energy": 200
+        },
+        {
+          "name": "Thịt nạc bò xào rau",
+          "ingredients": [
+            {
+              "name": "Thịt nạc bò",
+              "quantity": "30g"
+            },
+            {
+              "name": "Rau cải",
+              "quantity": "50g"
+            },
+            {
+              "name": "Dầu",
+              "quantity": "5g"
+            }
+          ],
+          "energy": 120
+        },
+        {
+          "name": "Nước suối",
+          "quantity": "1 chai 500ml",
+          "energy": 0
+        }
+      ]
+    },
+    {
+      "name": "Phụ",
+      "foods": [
+        {
+          "name": "Táo",
+          "quantity": "1 trái",
+          "energy": 60
+        }
+      ]
+    },
+    {
+      "name": "Chiều",
+      "foods": [
+        {
+          "name": "Bánh gạo",
+          "quantity": "1 gói (60g)",
+          "energy": 200
+        },
+        {
+          "name": "Cà chua",
+          "quantity": "1 quả",
+          "energy": 20
+        },
+        {
+          "name": "Phô mai",
+          "quantity": "20g",
+          "energy": 66
+        },
+        {
+          "name": "Nước ép táo",
+          "quantity": "1 ly 200ml",
+          "energy": 54
+        }
+      ]
+    }
+  ]
+},
+{
+  "energy": 1800,
+  "meals": [
+    {
+      "name": "Sáng",
+      "foods": [
+        {
+          "name": "Bánh mì",
+          "quantity": "1 ổ (60g)",
+          "energy": 145
+        },
+        {
+          "name": "Trứng gà",
+          "quantity": "1 quả",
+          "energy": 80
+        },
+        {
+          "name": "Phô mai",
+          "quantity": "10g",
+          "energy": 27
+        },
+        {
+          "name": "Nước ép cam",
+          "quantity": "1 ly 200ml",
+          "energy": 88
+        }
+      ]
+    },
+    {
+      "name": "Phụ",
+      "foods": [
+        {
+          "name": "Ổi",
+          "quantity": "1 quả vừa",
+          "energy": 65
+        }
+      ]
+    },
+    {
+      "name": "Trưa",
+      "foods": [
+        {
+          "name": "Cơm",
+          "quantity": "1 chén vừa",
+          "energy": 205
+        },
+        {
+          "name": "Cá hồi nướng",
+          "quantity": "100g",
+          "energy": 170
+        },
+        {
+          "name": "Rau xà lách, cà chua, dưa chuột",
+          "quantity": "100g",
+          "energy": 14
+        },
+        {
+          "name": "Nước chanh không đường",
+          "quantity": "1 ly",
+          "energy": 10
+        }
+      ]
+    },
+    {
+      "name": "Chiều",
+      "foods": [
+        {
+          "name": "Bánh mì sandwich thịt gà",
+          "ingredients": [
+            {
+              "name": "Bánh mì",
+              "quantity": "1 ổ (60g)"
+            },
+            {
+              "name": "Thịt gà",
+              "quantity": "40g"
+            },
+            {
+              "name": "Xà lách, cà chua",
+              "quantity": "20g"
+            },
+            {
+              "name": "Mayonnaise",
+              "quantity": "10g"
+            }
+          ],
+          "energy": 200
+        },
+        {
+          "name": "Chuối",
+          "quantity": "1 trái vừa",
+          "energy": 105
+        },
+        {
+          "name": "Sữa tươi không đường",
+          "quantity": "1 ly",
+          "energy": 118
+        }
+      ]
+    }
+  ]
+},
+{
+  "energy": 1800,
+  "meals": [
+    {
+      "name": "Sáng",
+      "foods": [
+        {
+          "name": "Bánh mì",
+          "quantity": "1 ổ (60g)",
+          "energy": 145
+        },
+        {
+          "name": "Trứng gà",
+          "quantity": "1 quả",
+          "energy": 80
+        },
+        {
+          "name": "Phô mai",
+          "quantity": "10g",
+          "energy": 27
+        },
+        {
+          "name": "Nước ép cam",
+          "quantity": "1 ly 200ml",
+          "energy": 88
+        }
+      ]
+    },
+    {
+      "name": "Phụ",
+      "foods": [
+        {
+          "name": "Sữa chua",
+          "quantity": "1 hộp",
+          "energy": 100
+        },
+        {
+          "name": "Trái cây tươi",
+          "quantity": "1 trái vừa",
+          "energy": 50
+        }
+      ]
+    },
+    {
+      "name": "Trưa",
+      "foods": [
+        {
+          "name": "Cơm",
+          "quantity": "1 chén vừa",
+          "energy": 205
+        },
+        {
+          "name": "Cá hồi nướng",
+          "quantity": "100g",
+          "energy": 170
+        },
+        {
+          "name": "Rau xà lách, cà chua, dưa chuột",
+          "quantity": "100g",
+          "energy": 14
+        },
+        {
+          "name": "Nước chanh không đường",
+          "quantity": "1 ly",
+          "energy": 10
+        }
+      ]
+    },
+    {
+      "name": "Chiều",
+      "foods": [
+        {
+          "name": "Bánh mì sandwich thịt heo",
+          "ingredients": [
+            {
+              "name": "Bánh mì",
+              "quantity": "1 ổ (60g)"
+            },
+            {
+              "name": "Thịt heo",
+              "quantity": "40g"
+            },
+            {
+              "name": "Xà lách, cà chua",
+              "quantity": "20g"
+            },
+            {
+              "name": "Mayonnaise",
+              "quantity": "10g"
+            }
+          ],
+          "energy": 220
+        },
+        {
+          "name": "Chuối",
+          "quantity": "1 trái vừa",
+          "energy": 105
+        },
+        {
+          "name": "Sữa đậu nành không đường",
+          "quantity": "1 ly",
+          "energy": 78
+        }
+      ]
+    }
+  ]
+},
+{
+  "energy": 1900,
+  "meals": [
+    {
+      "name": "Sáng",
+      "foods": [
+        {
+          "name": "Bánh mì nướng",
+          "quantity": "1 ổ (60g)",
+          "energy": 145
+        },
+        {
+          "name": "Trứng gà",
+          "quantity": "1 quả",
+          "energy": 80
+        },
+        {
+          "name": "Bơ",
+          "quantity": "10g",
+          "energy": 72
+        },
+        {
+          "name": "Nước cam tươi",
+          "quantity": "1 ly 200ml",
+          "energy": 88
+        }
+      ]
+    },
+    {
+      "name": "Phụ",
+      "foods": [
+        {
+          "name": "Bánh quy",
+          "quantity": "2 cái",
+          "energy": 100
+        }
+      ]
+    },
+    {
+      "name": "Trưa",
+      "foods": [
+        {
+          "name": "Cơm trắng",
+          "quantity": "1 chén vừa",
+          "energy": 205
+        },
+        {
+          "name": "Gà kho gừng",
+          "quantity": "100g",
+          "energy": 200
+        },
+        {
+          "name": "Rau muống xào tỏi",
+          "quantity": "100g",
+          "energy": 25
+        },
+        {
+          "name": "Nước chanh không đường",
+          "quantity": "1 ly",
+          "energy": 10
+        }
+      ]
+    },
+    {
+      "name": "Phụ",
+      "foods": [
+        {
+          "name": "Dưa hấu",
+          "quantity": "1 lát vừa",
+          "energy": 60
+        }
+      ]
+    },
+    {
+      "name": "Chiều",
+      "foods": [
+        {
+          "name": "Bánh bao nhân thịt",
+          "quantity": "2 cái",
+          "energy": 250
+        },
+        {
+          "name": "Sữa chua trái cây",
+          "quantity": "1 hộp",
+          "energy": 150
+        }
+      ]
+    },
+    {
+      "name": "Phụ",
+      "foods": [
+        {
+          "name": "Hoa quả sấy",
+          "quantity": "30g",
+          "energy": 100
+        }
+      ]
+    },
+    {
+      "name": "Tối",
+      "foods": [
+        {
+          "name": "Phở bò",
+          "quantity": "1 bát vừa",
+          "energy": 350
+        },
+        {
+          "name": "Chả giò",
+          "quantity": "2 cái",
+          "energy": 200
+        },
+        {
+          "name": "Nước mía",
+          "quantity": "1 ly",
+          "energy": 100
+        }
+      ]
+    }
+  ]
+},
+{
+  "meals": [
+    {
+      "name": "Sáng",
+      "foods": [
+        {
+          "name": "Bánh mì nướng",
+          "quantity": "1 ổ (60g)",
+          "energy": 145
+        },
+        {
+          "name": "Trứng gà",
+          "quantity": "1 quả",
+          "energy": 80
+        }
+      ]
+    },
+    {
+      "name": "Trưa",
+      "foods": [
+        {
+          "name": "Cơm",
+          "quantity": "1 chén vừa",
+          "energy": 205
+        },
+        {
+          "name": "Thịt gà xào rau cải",
+          "quantity": "100g",
+          "energy": 150
+        },
+        {
+          "name": "Rau xà lách, cà chua, dưa chuột",
+          "quantity": "100g",
+          "energy": 14
+        }
+      ]
+    },
+    {
+      "name": "Tối",
+      "foods": [
+        {
+          "name": "Canh chua cá",
+          "quantity": "1 bát",
+          "energy": 100
+        },
+        {
+          "name": "Cá hồi nướng",
+          "quantity": "100g",
+          "energy": 170
+        },
+        {
+          "name": "Rau muống xào tỏi",
+          "quantity": "100g",
+          "energy": 40
+        },
+        {
+          "name": "Chuối",
+          "quantity": "1 trái vừa",
+          "energy": 105
+        }
+      ]
+    }
+  ]
+}
+]
